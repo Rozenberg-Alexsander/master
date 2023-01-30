@@ -3,6 +3,7 @@ public class master {
         int num = 1;
         int num2 = 2;
         int num3 = 5;
-        System.out.println(num + num2 + num3);
+        int num4 = 20;
+        System.out.println(num + num2 + num3 + num4);
     }
 }
